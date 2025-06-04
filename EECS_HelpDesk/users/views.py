@@ -1,4 +1,3 @@
-from django.shortcuts import render
 from .models import User
 from .serialisers import UserSerialiser, UserUpdateSerialiser, ChangePasswordSerialiser
 from rest_framework.generics import ListCreateAPIView, RetrieveUpdateAPIView, GenericAPIView, DestroyAPIView
