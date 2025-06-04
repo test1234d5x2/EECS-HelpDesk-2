@@ -12,6 +12,8 @@ USER_TYPE_CHOICES = (
 
 # Create your models here.
 class User(AbstractUser):
-    user_type = models.CharField(max_length=20, choices=USER_TYPE_CHOICES, default=USER_TYPE_CHOICES[0])
+    user_type = models.CharField(max_length=40, choices=USER_TYPE_CHOICES, default=USER_TYPE_CHOICES[0])
     email = models.EmailField(null=False)
     DOB = models.DateField(null=False)
+
+    REQUIRED_FIELDS = ['email', 'DOB']
