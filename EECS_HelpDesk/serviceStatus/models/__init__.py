@@ -1,2 +1,0 @@
-from .serviceStatus import SERVICE_STATUS_CHOICES
-from .serviceStatus import serviceStatus
