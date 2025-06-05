@@ -16,4 +16,6 @@ class User(AbstractUser):
     email = models.EmailField(null=False)
     DOB = models.DateField(null=False)
 
+    modules = models.ManyToManyField('modules.Module', through='modules.Enrollment', related_name='enrolled_users')
+
     REQUIRED_FIELDS = ['email', 'DOB']

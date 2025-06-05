@@ -1,0 +1,308 @@
+BBC6521,Project (JP)
+CBU5201,Machine Learning (JP)
+EBC3001,Personal Development Plan 1 (JP)
+EBC3002,Personal Development Plan and Entrepreneurial Skills 1 (JP)
+EBC4001,Personal Development Plan 2 (JP)
+EBC4002,Personal Development Plan and Entrepreneurial Skills 2 (JP)
+EBC5001,Personal Development Plan 3 (JP)
+EBC5002,Personal Development Plan and Entrepreneurial Skills 3 (JP)
+EBU4201,Introductory Java Programming (JP)
+EBU4202,Digital Circuit Design (JP)
+EBU4203,Introduction to AI (JP)
+EBU4375,Signals and Systems (JP)
+EBU5017,AI Law (JP)
+EBU5027,e-Commerce Law (JP)
+EBU5042,Advanced Network Programming (JP)
+EBU5204,Operating Systems (JP)
+EBU5211,Ad Hoc Networks (JP)
+EBU5212,Communications and Networks (JP)
+EBU5213,Internet Protocols and Networks (JP)
+EBU5302,Telecommunications Systems (JP)
+EBU5303,Multimedia Fundamentals (JP)
+EBU5376,Digital Signal Processing (JP)
+EBU5402,Enterprise Management (JP)
+EBU5403,Internet Protocols (JP)
+EBU5405,3D Graphics Programming Tools (JP)
+EBU5408,Digital Audio Fundamentals (JP)
+EBU5476,Microprocessors for Embedded Computing (JP)
+EBU5477,Embedded Systems (JP)
+EBU5502,Databases (JP)
+EBU5503,Database Systems (JP)
+EBU5504,Networks and Protocols (JP)
+EBU5601,Data Design (JP)
+EBU5602,Database (JP)
+EBU5606,Product Development and Marketing (JP)
+EBU5607,IoT Product Development and Management (JP)
+EBU5608,Product Development and Management (JP)
+EBU6007,Cybersecurity Law (JP)
+EBU6009,Computer Crime (JP)
+EBU6010,Cryptography and Cyber Security (JP)
+EBU6016,Intellectual Property Law (JP)
+EBU6018,Advanced Transform Methods (JP)
+EBU6230,Image and Video Processing (JP)
+EBU6304,Software Engineering (JP)
+EBU6305,Interactive Media Design and Production (JP)
+EBU6307,Visual Computing (JP)
+EBU6308,Computational Creativity (JP)
+EBU6335,Digital Systems Design (JP)
+EBU6366,"Microwave, Millimeterwave and Optical Transmission (JP)"
+EBU6408,Sensors and Radio Frequency Identification (JP)
+EBU6409,Broadband Technologies and Fibre Optics (JP)
+EBU6410,Wireless Technologies and Techniques (JP)
+EBU6444,Communication Systems Electronics (JP)
+EBU6475,Microprocessor Systems Design (JP)
+EBU6501,Middleware (JP)
+EBU6502,Cloud Computing (JP)
+EBU6503,Control Theory (JP)
+EBU6504,Smart Infrastructure and Data Analytics (JP)
+EBU6505,Reasoning and Agents (JP)
+EBU6569,Microwave Electronics (JP)
+EBU6609,Logistics and Supply Chain Management (JP)
+EBU6610,Information Systems Management (JP)
+EBU706U,Multimedia Systems (JP)
+EBU7140,Security and Authentication (JP)
+EBU714U,Security and Authentication (JP)
+EBU721U,Ad Hoc and Broadband Wireless (JP)
+EBU723U,Image and Video Processing (JP)
+EBU7240,Computer Vision (JP)
+EBU7250,Wireless Networks (JP)
+EBU732U,Digital Broadcasting (JP)
+EBU7405,3D Graphics Programming Tools (JP)
+EBU7501,Cloud Computing (JP)
+EBU750U,Cloud Computing (JP)
+ECS401U,Procedural Programming
+ECS403U,Communications and Networks
+ECS404U,Computer Systems and Networks
+ECS405U,Arts Application Programming
+ECS406U,Bridging Arts and Technology
+ECS407U,Logic and Discrete Structures
+ECS408U,Electronic Engineering Mathematics I
+ECS409U,Analogue Electronic Systems
+ECS411U,Signals and Information
+ECS412U,Digital Circuit Design
+ECS414U,Object-Oriented Programming
+ECS416U,Introduction to Multimedia
+ECS417U,Fundamentals of Web Technology
+ECS418W,Business Modelling
+ECS419U,Information System Analysis
+ECS421U,Automata and Formal Languages
+ECS423U,Electronic Engineering Mathematics 2
+ECS426U,Aspects of Robotics (Robotics I)
+ECS427U,Professional and Research Practice
+ECS427W,Professional and Research Practice
+ECS429U,Programming Fundamentals for Engineers
+ECS430U,Computer Systems and Networks
+ECS431U,Engineering Skills and Practice
+ECS501U,C Programming
+ECS502U,Microprocessor Systems Design
+ECS504U,Electric and Magnetic Fields
+ECS505U,Software Engineering
+ECS505W,Software Engineering
+ECS506U,Software Engineering Project
+ECS506W,Software Engineering Project
+ECS507U,Website Design and Authoring
+ECS508U,Business Information Systems
+ECS509U,Probability and Matrices
+ECS511U,Creating Interactive Objects
+ECS512U,Sound Design
+ECS514U,Design and Build Project in Electronic Engineering
+ECS515U,Signals and Systems Theory
+ECS517U,Electronic Devices and Applications
+ECS518U,Operating Systems
+ECS519U,Database Systems
+ECS520U,Creative Group Project
+ECS521U,Interactive Media Design and Production
+ECS522U,Graphical User Interfaces
+ECS522W,Graphical User Interfaces
+ECS524U,Internet Protocols and Applications
+ECS526U,Design and Build Project in Robotics Engineering (Robotics II)
+ECS527U,Digital Systems Design
+ECS528P,Communications Systems
+ECS528U,Communications Systems
+ECS529A,Algorithms and Data Structures
+ECS529U,Algorithms and Data Structures
+ECS531U,Business Modelling
+ECS532U,Power Systems Analysis
+ECS533U,Introduction to Artificial Intelligence
+ECS534U,Generative Deep Learning
+ECS535U,Artificial Intelligence for Decision Making
+ECS536U,Aspects of Robotics
+ECS537U,Design and Build Project in Artificial Intelligence
+ECS550U,Industrial Placement Project
+ECS555U,Study Abroad Year (Electronic and Electrical Engineering)
+ECS556U,Study Abroad Year (Computer Science)
+ECS601U,Control Systems
+ECS602U,Digital Signal Processing
+ECS605U,Image Processing
+ECS607U,Data Mining
+ECS609U,Project Risk Management
+ECS610U,Computer Graphics
+ECS612U,Interaction Design
+ECS614U,Sound Recording and Production Techniques
+ECS615U,Digital Systems Design
+ECS617U,Integrated Circuit Design
+ECS619U,"Network Planning, Finance and Management"
+ECS620U,Summer Internship
+ECS622U,Product Development
+ECS622W,Product Development
+ECS625U,Project
+ECS629P,Artificial Intelligence
+ECS629U,Artificial Intelligence
+ECS635U,Project
+ECS635W,Project
+ECS637U,Digital Media and Social Networks
+ECS638U,Design for Human Interaction
+ECS639U,Web Programming
+ECS640U,Big Data Processing
+ECS642U,Embedded Systems
+ECS643U,Power Electronics
+ECS644U,Microwave and Millimetrewave Electronics
+ECS645U,Microwave and Millimetrewave Communications Systems
+ECS646U,Software Development and Quality
+ECS646W,Software Development and Quality
+ECS647U,Bayesian Decision and Risk Analysis
+ECS648U,Data Analytics
+ECS649U,Electrical Machines and Systems
+ECS650U,Semi-structured Data and Advanced Data Modelling
+ECS651U,"Computability, Complexity and Algorithms"
+ECS652U,Compilers
+ECS653U,Advanced Robotics Systems (Robotics III)
+ECS654U,Advanced Control Systems
+ECS655A,Security Engineering
+ECS655U,Security Engineering
+ECS656U,Distributed Systems
+ECS657U,Multi-platform Game Development
+ECS658U,Further Object Oriented Programming
+ECS659P,Neural Networks and Deep Learning
+ECS659U,Neural Networks and Deep Learning
+ECS660U,Modelling and Performance
+ECS661A,User Experience Design
+ECS661P,User Experience Design
+ECS661U,User Experience Design
+ECS662U,Electric and Hybrid Powertrain for Transport
+ECS671U,Semi-structured Data Engineering
+ECS698A,End-Point Assessment
+ECS698U,End-Point Assessment
+ECS7001P,Neural Networks and NLP
+ECS7002P,Artificial Intelligence in Games
+ECS7003P,Multi-platform Game Development
+ECS7004P,Advanced Robotics Systems (Robotics III)
+ECS7005A,Risk and Decision-Making for Data Science and AI
+ECS7005P,Risk and Decision-Making for Data Science and AI
+ECS7006P,Music Informatics
+ECS7006U,Music Informatics
+ECS7007P,Research Methods and Responsible Innovation
+ECS7008P,Modelling and Performance
+ECS7008U,Modelling and Performance
+ECS7009P,Introduction to Software Engineering
+ECS700P,Electronic Sensing
+ECS700U,Electronic Sensing
+ECS7010P,Computer Architecture and Networks
+ECS7011P,Quantum Programming
+ECS7011U,Quantum Programming
+ECS7012P,Music and Audio Programming
+ECS7012U,Music and Audio Programming
+ECS7013P,Deep Learning for Audio and Music
+ECS7014P,Advanced Game Development
+ECS7014W,End Point Assessment
+ECS7015P,Fundamentals of Game Design
+ECS7015W,Project Management for Big Data Analysis
+ECS7016P,Interactive Agents and Procedural Generation
+ECS7016W,Project
+ECS7017P,Computational Game Design
+ECS7018P,Logic in Computer Science
+ECS7018U,Logic in Computer Science
+ECS7019U,Advanced Group Project
+ECS7020P,Principles of Machine Learning
+ECS7021P,5G Mobile and Beyond
+ECS7021U,5G Mobile and Beyond
+ECS7022P,Computational Creativity
+ECS7023P,Programming for Artificial Intelligence and Data Science
+ECS7024P,Statistics for Artificial Intelligence and Data Science
+ECS7025P,"Ethics, Regulation and Law in Advanced Digital Information Processing and  Decis"
+ECS7026P,Neural Networks and Deep Learning
+ECS7027P,Machine Learning Deployment
+ECS7028P,Data Semantics
+ECS7028U,Data Semantics
+ECS7029P,Research Methods
+ECS702P,Mobile and WLAN Technologies
+ECS702U,Mobile and WLAN Technologies
+ECS7071P,Semi-structured Data Engineering
+ECS707P,Fundamentals of DSP
+ECS707U,Fundamentals of DSP
+ECS708A,Machine Learning
+ECS708P,Machine Learning
+ECS708U,Machine Learning
+ECS709P,Introduction to Computer Vision
+ECS709U,Introduction to Computer Vision
+ECS712P,Design for Human Interaction
+ECS712U,Design for Human Interaction
+ECS713P,Functional Programming
+ECS713U,Functional Programming
+ECS714P,Embedded Systems
+ECS714U,Embedded Systems
+ECS7200U,Summer Internship
+ECS720P,Power Electronics
+ECS725P,Mobile Services
+ECS726P,Security and Authentication
+ECS726U,Security and Authentication
+ECS733P,Interactive System Design
+ECS733U,Interactive System Design
+ECS735P,The Semantic Web
+ECS735U,The Semantic Web
+ECS736P,Information Retrieval
+ECS736U,Information Retrieval
+ECS740P,Database Systems
+ECS741P,Music Perception and Cognition
+ECS741U,Music Perception and Cognition
+ECS742P,Interactive Digital Multimedia Techniques
+ECS745P,Business Information Systems
+ECS749P,Sound Recording and Production Techniques
+ECS7500P,MSc Advanced Research Project
+ECS750P,Project
+ECS751P,Project
+ECS752P,Microwave and Millimetrewave Electronics
+ECS753P,MSc by Research Project
+ECS754P,MSc by Research Project
+ECS757P,Digital Media and Social Networks
+ECS759P,Artificial Intelligence
+ECS762P,Computer Graphics
+ECS763P,Natural Language Processing
+ECS763U,Natural Language Processing
+ECS764A,Applied Statistics
+ECS764P,Applied Statistics
+ECS765A,Big Data Processing
+ECS765P,Big Data Processing
+ECS766A,Data Mining
+ECS766P,Data Mining
+ECS770U,Project
+ECS771U,Project
+ECS773P,Bayesian Decision and Risk Analysis
+ECS774P,MSc Industrial Placement Project
+ECS775P,Security Engineering
+ECS776P,Image Processing
+ECS778P,Advanced Control Systems
+ECS780P,Computer Programming
+ECS781A,Cloud Computing
+ECS781P,Cloud Computing
+ECS782P,Introduction to IOT
+ECS782U,Introduction to IOT
+ECS783P,Enabling Communication Technologies for IoT
+ECS783U,Enabling Communication Technologies for IoT
+ECS784P,Data Analytics
+ECS784U,Data Analytics
+ECS784W,Data Analytics
+ECS787P,Integrated Circuit Design
+ECS788P,Control Systems
+ECS789P,Semi-structured Data and Advanced Data Modelling
+ECS790P,Electrical Machines and Systems
+ECS793P,Introduction to Object-Oriented Programming
+ECS794P,Cognitive Robotics
+ECS794U,Cognitive Robotics (Robotics IV)
+ECS795P,Deep Learning and Computer Vision
+ECS796P,Distributed Systems
+ECS797P,Machine Learning for Visual Data Analysis
+ECS797U,Machine Learning for Visual Data Analysis
+ECS7980P,Research Impact and Engagement
+ECS798P,Demonstration Development
+ECS7990P,Game Development
