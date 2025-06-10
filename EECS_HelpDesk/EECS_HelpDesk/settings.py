@@ -109,6 +109,7 @@ WSGI_APPLICATION = 'EECS_HelpDesk.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/5.2/ref/settings/#databases
 
+# TODO: Remove in production
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
