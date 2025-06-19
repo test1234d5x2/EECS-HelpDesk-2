@@ -11,6 +11,10 @@ https://docs.djangoproject.com/en/5.2/ref/settings/
 """
 
 from pathlib import Path
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -109,14 +113,14 @@ WSGI_APPLICATION = 'EECS_HelpDesk.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/5.2/ref/settings/#databases
 
-# TODO: Remove in production
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'EECS_HelpDesk',         # The name of the database you created
-        'USER': 'mydjangouser',       # The database user you created
-        'PASSWORD': 'testing123', # The password for that user
-        'HOST': 'localhost',          # Or the IP address of your Debian server if connecting remotely
+        'NAME': os.getenv("DATABASE_NAME"),         # The name of the database you created
+        'USER': os.getenv("DATABASE_USER"),       # The database user you created
+        'PASSWORD': os.getenv("DATABASE_PASSWORD"), # The password for that user
+        'HOST': os.getenv("DATABASE_HOST"),          # Or the IP address of your Debian server if connecting remotely
         'PORT': '',                   # Leave empty for default (5432)
     }
 }
